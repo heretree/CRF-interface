@@ -1,2 +1,2 @@
-PATH_TO_VENV="/data4/zhangjianning/host-talent/venv"
-CONDA_PREFIX="/data4/zhangjianning/miniconda3"
+PATH_TO_VENV="/path/to/venv"
+CONDA_PREFIX="/path/to/miniconda3"
